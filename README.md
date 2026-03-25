@@ -21,6 +21,7 @@ By extracting coefficients from the Tuned Linear SVM, we identified the top driv
 2. **OverTime:** Both excessive overtime and strict "no overtime" policies correlate with higher attrition (burnout vs. disengagement).
 3. **Business Travel:** Frequent travelers and non-travelers leave more often than those who travel moderately.
 4. **Role Stagnation (`YearsInCurrentRole`):** Lack of internal mobility significantly drives talent away.
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/9109e5f9-4d80-4bea-b81f-16a07dd7b305" />
 
 ## 📈 Model Performance
 * **Algorithm:** Linear Support Vector Machine (SVM)
@@ -30,7 +31,7 @@ By extracting coefficients from the Tuned Linear SVM, we identified the top driv
 
 ## 📂 Repository Structure
 * `V11_Employee_Attrition_Performance_prediction.ipynb` : The complete End-to-End code (EDA, Pipeline, Modeling, Evaluation).
-* `WA_Fn-UseC_-HR-Employee-Attrition.csv` : The HR dataset used for training and testing. *(Include if public)*
+* `WA_Fn-UseC_-HR-Employee-Attrition.csv` : The HR dataset used for training and testing. [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 💡 How to Run
 1. Clone the repository: `git clone https://github.com/omarDlgaber/HR-Attrition-Prediction.git`
